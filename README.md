@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallateef Shohdy</h1>
-<h3 align="center">I'm a Backend Stack Developer</h3>
+<h3 align="center">I'm a Backend Developer</h3>
 
 <p align="center">
   <a href="https://twitter.com/abdallateef_sa" target="_blank">
