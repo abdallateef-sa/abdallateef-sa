@@ -1,43 +1,43 @@
-<h1 align="center">Hi 👋, I'm Abdallateef Shohdy</h1>
-<h3 align="center">I'm a Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Abdallateef</h1>
 
-<p align="center">
-  <a href="https://twitter.com/abdallateef_sa" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/abdallateef_sa?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+<h4 align="center">I am a student at the Faculty of Computer Science at Mansoura University, 21 years old. I strive to develop my skills in software development, especially in Backend development. 🚀</h4>
+
+## Education
+- **Bachelor's in Computer Science**  
+  Mansoura University, expected to graduate in 2025. 🎓
+
+## Contact
+📫 How to reach me: **[abdallateefshohdy0180@gmail.com](mailto:abdallateefshohdy0180@gmail.com)**
+
+### Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/abdallateef-shohdy-351295279/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/abdallateef_sa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" />
+### Languages and Tools:
+<p> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
+  </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
   </a>
-  <a href="https://instagram.com/abdallateef_sa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdallateef-shohdy-351295279/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> 
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdallateef-sa&show_icons=true&locale=en&layout=compact" alt="abdallateef-sa" />
 </p>
