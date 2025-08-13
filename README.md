@@ -8,7 +8,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 **BSc in Information Systems** – Mansoura University (Graduated 2025)  
+- 🎓 **BSc in Computer Science** – Mansoura University (Graduated 2025)  
 - 🛠 Practical experience with **Node.js**, **Express.js**, and **FastAPI**  
 - 🤖 Interest in integrating **AI-powered features** into backend systems  
 - 📚 Always learning, always improving
