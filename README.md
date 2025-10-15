@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey, I'm Abdallateef Shohdy
 
-<!--
-**abdallateef-sa/abdallateef-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student from Egypt  
+💻 Aspiring **Backend Developer** (Node.js, Express, PostgreSQL, MongoDB)  
+🌐 Visit my portfolio: [abdallateef.shohdy.tech](https://abdallateef.shohdy.tech)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+- **Languages:** JavaScript (Node.js), TypeScript, Python  
+- **Databases:** MongoDB, MySQL, PostgreSQL  
+- **Tools:** Git, Docker, Postman, VS Code  
+
+---
+
+### 🚀 Current Goals
+- Master advanced backend architecture & system design  
+- Build production-level APIs with authentication and scalability  
+
+---
+
+### 📫 Connect with Me
+- GitHub: [@abdallateef-sa](https://github.com/abdallateef-sa)
+- LinkedIn: *(Add your LinkedIn link here if you have one)*
+
