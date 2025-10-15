@@ -42,7 +42,6 @@
 ### 📫 Contact Me
 📧 **Email:** [abdallateefshohdy0180@gmail.com](mailto:abdallateefshohdy0180@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/abdallateef-shohdy-351295279](https://www.linkedin.com/in/abdallateef-shohdy-351295279/)  
-💻 **GitHub:** [github.com/abdallateef-sa](https://github.com/abdallateef-sa)
 
 ---
 
