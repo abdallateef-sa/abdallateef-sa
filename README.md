@@ -19,7 +19,3 @@
 
 ---
 
-### 📫 Connect with Me
-- GitHub: [@abdallateef-sa](https://github.com/abdallateef-sa)
-- LinkedIn: *(Add your LinkedIn link here if you have one)*
-
