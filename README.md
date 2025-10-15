@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at **Mansoura University**  
+- 🎓 B.Sc. in Computer Science (Mansoura University, 2025) 
 - 💼 Experienced in building RESTful APIs using **Node.js**, **Express**, and **TypeScript**  
 - 🧠 Skilled in database design, authentication, and performance optimization  
 - ☁️ Familiar with **Docker**, **CI/CD**, and **AWS EC2** deployment  
